@@ -5,7 +5,7 @@ My name is Swee Kwang, currently, a student in Nanyang Technologies University. 
 <h2>I'm currently</h2>
 <ul>
   <li>Learning Data Structure and Alogorithm.</li>
-  <li>At the same time turning the data structure learnt into a Swift Package.</li>
+  <li>At the same time turning the data structure learnt into a <a href="https://github.com/Sweekwang/Swift-Data-Structure">Swift Package</a>.</li>
   <li>Learning SwiftUI by cloning <a href="https://github.com/Sweekwang/Instagram-Clone">Instagrame App</a>.</li>
 </ul>
 
