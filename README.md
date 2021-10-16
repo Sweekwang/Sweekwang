@@ -14,3 +14,10 @@ My name is Swee Kwang, currently, a student in Nanyang Technologies University. 
 Sweekwang/Sweekwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+<hr/>
+<a href="https://apps.apple.com/sg/developer/chua-kwang/id1464828215">
+<img src="https://selinko.com/site/wp-content/uploads/2017/10/itunes-app-store-logo-e1508928959717.png" style="width:180px;" alt="Chua Swee Kwang">
+</a>
+
