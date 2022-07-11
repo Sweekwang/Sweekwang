@@ -5,15 +5,11 @@ My name is Swee Kwang, currently, a Master of Computer Science (MCS) student at 
 
 <h2>Skills:</h2>
 <h3>Used in Personal Project/Work:</h3>
-<strong>Languages:</strong> Swift, JavaScript, Typescript, Python, Kotlin <br/>
-<strong>iOS Skill:</strong> XCode, UIKit, SwiftUI, URLSession, CoreData, UserDafults, StoreKit, XCTest, Cocoapods, Swift Package Manager<br/>
-<strong>Others:</strong> Firebase, ReactJS, NextJS, Git, GitHub, Jenkins, Ansible, docker<br/>
-
-<h3>Learnt in school/online courses:</h3>
-<strong>Languages:</strong> C, Java<br/>
-<strong>iOS Skills:</strong> RXSwift, Grand Central Dispatch, Alamofire, Combine<br/>
-
-
+<strong>Languages:</strong> Swift, JavaScript, Typescript, HTML, CSS<br/>
+<strong>UI Frameworks:</strong> UIKit, SwiftUI and React<br/>
+<strong>iOS Skills:</strong> Grand Central Dispatch, Operations, URLSession, Combine, CoreData, UserDafults, StoreKit, XCTest, Cocoapods, Swift Package Manager<br/>
+<strong>Design:</strong> Figma<br/>
+<strong>Others:</strong> NextJS, Git, GitHub, Jenkins, Ansible, docker<br/>
 
 <!---
 Sweekwang/Sweekwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
